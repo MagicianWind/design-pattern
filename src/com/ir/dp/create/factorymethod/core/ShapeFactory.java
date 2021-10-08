@@ -1,4 +1,4 @@
-package com.ir.dp.create.factorymethod;
+package com.ir.dp.create.factorymethod.core;
 
 /**
  * @author i-rain

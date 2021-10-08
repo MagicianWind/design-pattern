@@ -1,5 +1,8 @@
 package com.ir.dp.create.factorymethod;
 
+import com.ir.dp.create.factorymethod.core.Shape;
+import com.ir.dp.create.factorymethod.core.ShapeFactory;
+
 /**
  * @author i-rain
  */
